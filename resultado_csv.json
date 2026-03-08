@@ -1,0 +1,26 @@
+{
+    "type": "csv",
+    "rows": 3,
+    "columns": [
+        "nome",
+        "idade",
+        "cidade"
+    ],
+    "data": [
+        {
+            "nome": "Ana",
+            "idade": 25,
+            "cidade": "São Paulo"
+        },
+        {
+            "nome": "Carlos",
+            "idade": 30,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "nome": "Marina",
+            "idade": 28,
+            "cidade": "Belo Horizonte"
+        }
+    ]
+}

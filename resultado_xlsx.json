@@ -1,0 +1,26 @@
+{
+    "type": "xlsx",
+    "rows": 3,
+    "columns": [
+        "nome",
+        "idade",
+        "cidade"
+    ],
+    "data": [
+        {
+            "nome": "Maria",
+            "idade": 25,
+            "cidade": "São Paulo"
+        },
+        {
+            "nome": "João",
+            "idade": 30,
+            "cidade": "Rio"
+        },
+        {
+            "nome": "Marina",
+            "idade": 28,
+            "cidade": "BH"
+        }
+    ]
+}

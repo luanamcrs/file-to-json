@@ -1,0 +1,10 @@
+{
+    "type": "pdf",
+    "pages": 1,
+    "content": [
+        {
+            "page": 1,
+            "text": "Relatório de Funcionários\nNome: Maria\nIdade: 25\nCidade: São Paulo\nNome: João\nIdade: 30\nCidade: Rio de Janeiro"
+        }
+    ]
+}
